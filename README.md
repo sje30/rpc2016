@@ -12,6 +12,6 @@ Get familiar with R and rstudio at the terminal.
 Use http://subliminal.maths.cam.ac.uk:8787/ to access rstudio
 remotely.
 
-Work through dynamical models 
+Work through "Dynamical Models in Biology" handout. 
 
 
