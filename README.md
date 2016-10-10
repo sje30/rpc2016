@@ -19,7 +19,7 @@ the [home page](https://people.cam.cornell.edu/~dmb/DMBsupplements.html) for the
 
 # Lec 3 2016-10-10 p20-49
 
-# Lec 4 2016-10-10 p50-
+# Lec 4 2016-10-10 p50-78
 
 # Lec 5 2016-10-11 
 
