@@ -30,3 +30,28 @@ LaTeX introduction:
 # Lec 6 (lab) 2016-10-11
 
 LaTeX [lab material](https://github.com/sje30/texintro/blob/master/intro.pdf)
+
+# Lec 7,8 2016-10-17 p79-143
+
+# Lec 9 2016-10-20
+
+# Lec 10 (lab) 2016-10-20
+We will go through assignment 1 (not knitr as planned before).
+
+
+
+
+# Assingments
+
+## Assignment 1
+
+[Assingment 1](assigns/spa1-2016.pdf)
+
+## Assignment 2
+
+To follow (estimated due date mid/late Nov 2017).
+
+## Assignment 3
+
+To follow (estimated due date Jan 2017).
+
