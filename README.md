@@ -38,10 +38,11 @@ LaTeX [lab material](https://github.com/sje30/texintro/blob/master/intro.pdf)
 # Lec 10 (lab) 2016-10-20
 We will go through assignment 1 (not knitr as planned before).
 
+# Lec 11,12 2016-10-24
+Note on vectorization: See R news help desk https://cran.r-project.org/doc/Rnews/Rnews_2008-1.pdf
 
 
-
-# Assingments
+# Assignments
 
 ## Assignment 1
 
