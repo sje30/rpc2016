@@ -49,7 +49,8 @@ Knitr
 
 # Lec 15, 16 2016-10-31
 
-Wrapping up
+Wrapping up  (the tidyverse: https://blog.rstudio.org/2016/09/15/tidyverse-1-0-0/)
+
 github, Reproducible research, "good enough" practices.
 
 
