@@ -41,6 +41,18 @@ We will go through assignment 1 (not knitr as planned before).
 # Lec 11,12 2016-10-24
 Note on vectorization: See R news help desk https://cran.r-project.org/doc/Rnews/Rnews_2008-1.pdf
 
+# Lec 13 2016-10-27
+(Reproducible research)
+
+# Lec 14 (lab) 2016-10-27
+Knitr
+
+# Lec 15, 16 2016-10-31
+
+Wrapping up
+github, Reproducible research, "good enough" practices.
+
+
 
 # Assignments
 
