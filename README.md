@@ -41,6 +41,8 @@ We will go through assignment 1 (not knitr as planned before).
 # Lec 11,12 2016-10-24
 Note on vectorization: See R news help desk https://cran.r-project.org/doc/Rnews/Rnews_2008-1.pdf
 
+(differential equations)
+
 # Lec 13 2016-10-27
 (Reproducible research)
 
