@@ -33,7 +33,7 @@ LaTeX [lab material](https://github.com/sje30/texintro/blob/master/intro.pdf)
 
 # Lec 7,8 2016-10-17 p79-143
 
-# Lec 9 2016-10-20
+# Lec 9 2016-10-20 p144-167
 
 # Lec 10 (lab) 2016-10-20
 We will go through assignment 1 (not knitr as planned before).
