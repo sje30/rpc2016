@@ -46,6 +46,11 @@ of lecture 12 on differential equations.
 
 [Differential equation Slides](de/de.pdf)
 
+I think we will have an extra supervision class to go through the
+rabbit-sheep example in slower detail.  The following (de/sheep-phaseR.Rmd)
+[Rmd file] and
+[example](https://cdn.rawgit.com/sje30/rpc2016/master/de/sheep-phaseR.html)
+
 # Lec 13 2016-10-27
 (Reproducible research)
 
