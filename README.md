@@ -72,7 +72,7 @@ github, Reproducible research, "good enough" practices.
 
 ## Assignment 1
 
-[Assingment 1](assigns/spa1-2016.pdf)
+[Assignment 1](assigns/spa1-2016.pdf)
 
 ## Assignment 2
 
