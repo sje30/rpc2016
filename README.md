@@ -47,9 +47,12 @@ of lecture 12 on differential equations.
 [Differential equation Slides](de/de.pdf)
 
 I think we will have an extra supervision class to go through the
-rabbit-sheep example in slower detail.  The following 
+rabbit-sheep example in slower detail.  The following
 [Rmd file](de/sheep-phaseR.Rmd) and
 [example](https://cdn.rawgit.com/sje30/rpc2016/master/de/sheep-phaseR.html)
+The
+[R journal article](https://journal.r-project.org/archive/2014-2/grayling.pdf)
+will also be useful reading.
 
 # Lec 13 2016-10-27
 (Reproducible research)
