@@ -58,7 +58,12 @@ will also be useful reading.
 (Reproducible research)
 
 # Lec 14 (lab) 2016-10-27
-Knitr
+Knitr:  
+
+All available from https://github.com/lgatto/spr/tree/master/estimate
+
+Makefile material from https://github.com/lgatto/spr/tree/master/rr_make
+
 
 # Lec 15, 16 2016-10-31
 
