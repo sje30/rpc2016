@@ -62,7 +62,12 @@ Slides for this lecture were made in [markdown](https://github.com/lgatto/spr/tr
 
 All available from https://github.com/lgatto/spr/tree/master/estimate
 
-Makefile material from https://github.com/lgatto/spr/tree/master/rr_make
+Makefile material from
+https://github.com/lgatto/spr/tree/master/rr_make
+
+Note: in Rstudio, it is best to set the default Sweave compilation
+engine to "knitr" rather than "sweave".  Do this from the Tools ->
+Global Options menu.
 
 
 # Lec 15, 16 2016-10-31
