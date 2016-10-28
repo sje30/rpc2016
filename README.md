@@ -55,10 +55,10 @@ The
 will also be useful reading.
 
 # Lec 13 2016-10-27
-(Reproducible research)
+[Lecture notes for RR](https://github.com/lgatto/spr/tree/master/rr.pdf).
+Slides for this lecture were made in [markdown](https://github.com/lgatto/spr/tree/master/rr.md).
 
 # Lec 14 (lab) 2016-10-27
-Knitr:  
 
 All available from https://github.com/lgatto/spr/tree/master/estimate
 
