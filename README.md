@@ -88,9 +88,10 @@ github, Reproducible research, "good enough" practices.
 
 [Assignment 2](assigns/spa2-2016.pdf)
 
-Due date: to be discussed in class.
 
 ## Assignment 3
+
+[Assignment 3](assigns/spa3-2016.pdf) [references](https://paperpile.com/shared/lNKK5w)
 
 To follow (estimated due date Jan 2017).
 
